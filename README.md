@@ -1,4 +1,4 @@
-# Helloooo it's me RandomGamingDev :)
+# Helloooo it's me RandomGamingDev :D
 
 Here's my website (some stuff might not be updated cause being lazy lol): </br>
 https://randomgamingdev.github.io/index.html
