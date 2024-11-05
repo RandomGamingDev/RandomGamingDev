@@ -1,6 +1,6 @@
 # Helloooo it's me RandomGamingDev :D
 
-Here's my website (some stuff might not be updated cause being lazy lol): </br>
+Here's my website (I like minimalism so it's pretty simple, and it has a few articles, but I don't actively work on articles for it): </br>
 https://randomgamingdev.github.io/index.html
 
 Hope u enjoy my repos
