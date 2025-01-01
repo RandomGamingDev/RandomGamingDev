@@ -1,4 +1,4 @@
-# Helloooo it's me RandomGamingDev :D
+# Helloooo it's me Ethan Chen/RandomGamingDev :D
 
 #### You can check out some of my social media here where I post fun projects in a digestable format:
 
