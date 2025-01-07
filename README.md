@@ -1,10 +1,5 @@
 # Helloooo it's me Ethan Chen/RandomGamingDev :D
 
-#### You can check out some of my social media here where I post fun projects in a digestable format:
-
-<a href="https://www.youtube.com/@RandomGamingDev" target=”_blank” style="padding: 10px"><img src="https://github.com/user-attachments/assets/3c3ad5c9-6574-4bb8-af67-d7a760f0f1fb" height=64 /></a>
-<a href="https://randomgamingdev.itch.io/" target=”_blank” style="padding: 10px"><img src="https://github.com/user-attachments/assets/3ae1f564-a157-4bf9-9462-761bd5ad0e0a" height=64 /></a>
-
 #### Here are a few codebases I'm a contributor for:
 
 | Chromium | <p align="center"><a href="https://www.chromium.org/chromium-projects/" target=”_blank”><img src="https://github.com/user-attachments/assets/ba214470-07e3-48d8-a9fd-4f51a2f054f4" height=64 /></a></p> |
