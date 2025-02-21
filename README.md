@@ -1,5 +1,11 @@
 # Helloooo it's me Ethan Chen/RandomGamingDev :D
 
+Some of the uploading wasn't working so I wasn't able to upload everything with the restriction on video making things significantly harder so...
+
+# Check out some of my other projects in this short 2m Portfolio!
+
+https://www.youtube.com/watch?v=yTmrJB4P9w0
+
 #### Here are a few codebases I'm a contributor for:
 
 | Chromium | <p align="center"><a href="https://www.chromium.org/chromium-projects/" target=”_blank”><img src="https://github.com/user-attachments/assets/ba214470-07e3-48d8-a9fd-4f51a2f054f4" height=64 /></a></p> |
