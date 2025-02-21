@@ -1,10 +1,9 @@
 # Helloooo it's me Ethan Chen/RandomGamingDev :D
 
-Some of the uploading wasn't working so I wasn't able to upload everything with the restriction on video making things significantly harder so...
+Some of the uploading didn't work due to technical issues, meaning that I wasn't able to upload everything so <br/>
 
-# Check out some of my other projects in this short 2m Portfolio!
+### Check out some of my other projects in this short 2m video! https://www.youtube.com/watch?v=yTmrJB4P9w0
 
-https://www.youtube.com/watch?v=yTmrJB4P9w0
 
 #### Here are a few codebases I'm a contributor for:
 
