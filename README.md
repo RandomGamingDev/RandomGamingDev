@@ -15,4 +15,4 @@
 
 ### Hope ya enjoy my repos
 
-![RandomGamingDev's Github Stats](https://github-readme-stats.vercel.app/api?username=RandomGamingDev&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&rank_icon=github)
+![RandomGamingDev's Github Stats](https://github-readme-stats.vercel.app/api?username=RandomGamingDev&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
